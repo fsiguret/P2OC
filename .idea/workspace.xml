@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ac29ffd-900e-4458-b7ae-74c54927aa84" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/book-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/code-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/suitcase-solid.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,10 +36,17 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\ProjectOC\Projet2\img" />
+      <recent name="H:\ProjectOC\Projet2\style" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -49,7 +60,7 @@
       <updated>1580224356194</updated>
       <workItem from="1580224357453" duration="796000" />
       <workItem from="1580371705050" duration="10442000" />
-      <workItem from="1580382560863" duration="9256000" />
+      <workItem from="1580382560863" duration="19961000" />
     </task>
     <servers />
   </component>
@@ -69,5 +80,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1580391896698" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1580402534953">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580402534953" />
   </component>
 </project>
