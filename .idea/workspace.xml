@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ac29ffd-900e-4458-b7ae-74c54927aa84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/book-solid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/code-solid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/suitcase-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/css3-alt-brands.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dumbbell-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/html5-brands.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/js-brands.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/leaf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/node-js-brands.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tv-solid.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +43,13 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\ProjectOC\Projet2\img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="H:\ProjectOC\Projet2\img" />
       <recent name="H:\ProjectOC\Projet2\style" />
@@ -60,7 +67,10 @@
       <updated>1580224356194</updated>
       <workItem from="1580224357453" duration="796000" />
       <workItem from="1580371705050" duration="10442000" />
-      <workItem from="1580382560863" duration="19961000" />
+      <workItem from="1580382560863" duration="20147000" />
+      <workItem from="1580407507036" duration="1607000" />
+      <workItem from="1580458522592" duration="657000" />
+      <workItem from="1580478854309" duration="11516000" />
     </task>
     <servers />
   </component>
@@ -68,10 +78,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580381670164">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580487657905">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580381670164" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580487657905" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1580382241530">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

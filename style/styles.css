@@ -5,22 +5,21 @@ GENERAL
     display: flex;
     flex-direction: column;
 }
-.flex-section {
+.flex-section{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    margin-bottom: 20px;
 }
 body {
     font-family: "Arial";
     margin: 1% 25% 1% 25%;
     display: grid;
-    width: auto;
     height: 100%;
     grid-template-columns: repeat(3, 1fr);
     grid-auto-rows: minmax(100px, auto);
     grid-column-gap: 5px;
-
-    box-shadow: 3px 0px 10px black;
+    box-shadow: 3px 0 10px black;
 }
 /*****
 HEADER
@@ -28,7 +27,7 @@ HEADER
 .header {
     grid-column: 2/4;
     grid-row: 1;
-
+    margin-top: 30px;
     margin-bottom: 60px;
 }
 .name{
@@ -53,18 +52,31 @@ MAIN
     grid-column: 2/4;
     grid-row: 2/3;
 }
-
 .section-title {
     text-transform: uppercase;
     width: 100%;
-    margin: 0 20px 20px 35px;
+    margin: 0 50px 20px 35px;
     padding-bottom: 5px;
     border-bottom: #6D90A7 solid 1px;
 }
 .article-train, .article-xp{
     width: 70%;
 }
-
+.article-title {
+    margin-bottom: 6px;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.article-text{
+    font-size: 12px;
+    text-align: justify;
+    padding-right: 50px;
+}
+.article-subtitle {
+    margin: 0;
+    font-size: 16px;
+    font-weight: normal;
+}
 .aside-train, .aside-xp{
     margin: 0 75px 0 15px;
     width: 15%;
@@ -88,13 +100,41 @@ MAIN
 .date {
     color: black;
 }
-.latest-date::before{
-    content: "";
-    border-radius: 50%;
-    width: 20px;
-    height: 20px;
-    background: white;
-    border: solid 2px #6D90A7;
+.latest-date{
+    display: list-item;
+    list-style-image: url("../img/puce.svg");
+}
+.date, .latest-date {
+    font-size: 15px;
+}
+.html::before{
+    content: url("../img/html5-brands.svg");
+    position: relative;
+    top: 6px;
+    left: -15px;
+}
+.css::before{
+    content: url("../img/css3-alt-brands.svg");
+    position: relative;
+    top: 6px;
+    left: -15px;
+}
+.js::before{
+    content: url("../img/js-brands.svg");
+    position: relative;
+    top: 6px;
+    left: -15px;
+}
+.node::before{
+    content: url("../img/node-js-brands.svg");
+    position: relative;
+    top: 6px;
+    left: -15px;
+}
+
+.html,.css, .js, .node {
+    margin-left: 80px;
+    width: 35%;
 }
 /*****
 FOOTER
@@ -106,7 +146,50 @@ FOOTER
 
     background-color: #6D90A7;
 }
+.myface {
+    content: url("../img/matete.png");
+    border-radius: 50%;
+    border: solid #556D7E;
+    margin: 30px auto 20px auto;
+
+}
+.aside-title {
+    width: 100%;
+    color: #6D90A7;
+    height: 35px;
+    text-align: center;
+    background: #616161;
+    padding-top: 5px;
+
+}
+.contact-list {
+    list-style:none;
+    margin: 40px 0 40px 0;
+    font-size: 14px;
+}
+.list-contact{
+    margin-bottom: 20px;
+}
+.return::before {
+    content: "";
+    display: block;
+    clear: right;
+}
+
+.text-me {
+    margin: 40px 20px 0 20px;
+    text-align: justify;
+    font-size: 14px;
+}
 .hobbies {
     flex-grow: 1;
     justify-content: flex-end;
+}
+.img-hobbies {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.img{
+    margin: 0 auto 15px auto;
 }
