@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ac29ffd-900e-4458-b7ae-74c54927aa84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/css3-alt-brands.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/dumbbell-solid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/html5-brands.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/js-brands.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/leaf.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/node-js-brands.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tv-solid.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/dumbbell-solid.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/dumbbell-solid.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/leaf.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/leaf.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tv-solid.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/tv-solid.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +64,8 @@
       <workItem from="1580382560863" duration="20147000" />
       <workItem from="1580407507036" duration="1607000" />
       <workItem from="1580458522592" duration="657000" />
-      <workItem from="1580478854309" duration="11516000" />
+      <workItem from="1580478854309" duration="11695000" />
+      <workItem from="1580495065932" duration="187000" />
     </task>
     <servers />
   </component>
