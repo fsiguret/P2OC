@@ -2,23 +2,53 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <title>Mon CV</title>
+    <title>Florian Siguret Curriculum vitæ</title>
+    <link rel="icon" href="img/bookmark-regular.svg">
     <link rel="stylesheet" href="style/styles.css">
+    <script src="https://kit.fontawesome.com/8ef03f3d97.js" crossorigin="anonymous"></script>
 </head>
 <body>
 <header class="header">
+    <img class="myface" src="img/matete.png" alt="My head">
     <h1 class="name"><span class="name-color">Florian</span> Siguret</h1>
-    <h2 class="job-name"><span class="underline">Dével</span>oppeur web freelance</h2>
+    <h2 class="job-name">Développeur web freelance</h2>
 </header>
 <main class="main">
-    <section class="flex-section">
-        <h2 class="section-title training">Formation</h2>
-        <aside class="aside-train">
-            <ul class="list-date">
-                <li class="latest-date"><span class="date">2020</span></li>
+    <aside class="aside-left">
+        <aside>
+            <h2 class="aside-title">Contact</h2>
+            <ul class="contact-list">
+                <li class="list-contact">Adresse<span class="return">Oizon, France</span></li>
+                <li class="list-contact phone">Téléphone<span class="return">07 60 07 63 97</span></li>
+                <li class="list-contact mail">Email<span class="return">fl.si@orange.fr</span></li>
+                <li class="list-contact github">Github<span class="return">https://github.com/fsiguret</span></li>
             </ul>
         </aside>
+        <article class="about-me">
+            <h2 class="aside-title">À propos de moi</h2>
+            <p class="text-me">
+                Passionné par l'informatique et la technologie en général, je passe mon temps à rechercher de nouvelles
+                façons d'optimiser ce que je fais tout les jours. Réceptif aux critiques constructives, je fais tout ce qui
+                est en mon pouvoir pour m'améliorer de jour en jour.
+            </p>
+        </article>
+        <aside class="hobbies">
+            <h2 class="aside-title">Loisirs</h2>
+            <i class="fas fa-leaf img leaf"></i>
+            <i class="fas fa-car-side img car"></i>
+            <i class="fas fa-tv img tv"></i>
+        </aside>
+    </aside>
+    <section class="flex-section training">
+        <header class="header-section">
+            <i class="fas fa-book"></i>
+            <h2 class="section-title">Formation</h2>
+        </header>
         <article class="article-train">
+            <ul class="last-date fa-ul">
+                <li><span class="fa-li"><i class="far fa-dot-circle"></i></span><span class="date">2020<span class="return">Toulouse</span></span></li>
+            </ul>
+
             <h3 class="article-title">Openclassrooms</h3>
             <h4 class="article-subtitle">Développeur web</h4>
             <p class="article-text">
@@ -26,12 +56,11 @@
                 D'une durée de 6 mois, cette formation nous met en situations professionelle face à des clients fictifs.
             </p>
         </article>
-        <aside class="aside-train">
-            <ul class="list-date">
-                <li><span class="date">2017 Bourges</span></li>
-            </ul>
-        </aside>
+
         <article class="article-train">
+            <ul class="list-date fa-ul">
+                <li><span class="fa-li"><i class="fas fa-circle"></i></span><span class="date">2017<span class="return">Bourges</span></span></li>
+            </ul>
             <h3 class="article-title">EGEE</h3>
             <h4 class="article-subtitle">Développeur web junior</h4>
             <p class="article-text">
@@ -39,13 +68,11 @@
                 sous forme de ressources en ligne (en général des vidéos) qu'ils vont pouvoir regarder
                 chez eux à la place des devoirs.
             </p>
-        </article>
-        <aside class="aside-train">
-            <ul class="list-date">
-                <li><span class="date">2012 Bourges</span></li>
-            </ul>
-        </aside>
+</article>
         <article class="article-train">
+            <ul class="list-date fa-ul">
+                <li><span class="fa-li"><i class="fas fa-circle"></i></span><span class="date">2012 <span class="return">Bourges</span></span></li>
+            </ul>
             <h3 class="article-title">Niveau Baccalauréat</h3>
             <h4 class="article-subtitle">Conduite et Gestion Exploitation Agricole (CGEA)</h4>
             <p class="article-text">
@@ -54,13 +81,14 @@
         </article>
     </section>
     <section class="flex-section">
-        <h2 class="section-title xp">Expérience professionelle</h2>
-        <aside class="aside-xp">
-            <ul class="list-date">
-                <li class="latest-date"><span class="date">2018-2019 Aubigny</span></li>
-            </ul>
-        </aside>
+        <header class="header-section">
+            <i class="fas fa-suitcase"></i>
+            <h2 class="section-title">Expérience professionelle</h2>
+        </header>
         <article class="article-xp">
+            <ul class="last-date fa-ul">
+                <li><span class="fa-li"><i class="far fa-dot-circle"></i></span><span class="date">2018 - 2019<span class="return">Aubigny</span></span></li>
+            </ul>
             <h3 class="article-title">Coopérative AXEREAL</h3>
             <h4 class="article-subtitle">Agent exploitation silo</h4>
             <ul class="article-text">
@@ -70,22 +98,18 @@
                 <li>Utilisation des outils informatique.</li>
             </ul>
         </article>
-        <aside class="aside-xp">
-            <ul class="list-date">
-                <li><span class="date">2017 Bourges</span></li>
-            </ul>
-        </aside>
         <article class="article-xp">
+            <ul class="list-date fa-ul">
+                <li><span class="fa-li"><i class="fas fa-circle"></i></span><span class="date">2017<span class="return">Bourges</span></span></li>
+            </ul>
             <h3 class="article-title">Enjoy Your Business</h3>
             <h4 class="article-subtitle">Stagiaire Développeur Php/Symfony </h4>
             <p class="article-text">Développement d'une fonction de support en ligne implémenté dans l'application web.</p>
         </article>
-        <aside class="aside-xp">
-            <ul class="list-date">
-                <li><span class="date">2015 Levroux</span></li>
-            </ul>
-        </aside>
         <article class="article-xp">
+            <ul class="fa-ul list-date">
+                <li><span class="fa-li"><i class="fas fa-circle"></i></span><span class="date">2015<span class="return">Levroux</span></span></li>
+            </ul>
             <h3 class="article-title">Pc Micro Service</h3>
             <h4 class="article-subtitle">Réparateur informatique</h4>
             <ul class="article-text">
@@ -96,45 +120,28 @@
             </ul>
         </article>
     </section>
-    <section class="flex-section">
-        <h2 class="section-title skills">Compétences</h2>
-        <p class="html">HTML5</p>
-        <p class="css">CSS3</p>
-        <p class="js">Javascript</p>
-        <p class="node">Node.js</p>
+    <section class="flex-section reco-section">
+        <header class="header-section">
+            <i class="fas fa-pencil-alt"></i>
+            <h2 class="section-title">Recommandations</h2>
+        </header>
+        <article class="reco">
+            <h4 class="article-name">Maxime Kieman</h4>
+            <ul class="list-reco">
+                <li class="reco-name reco-list">Directeur, Mon agence</li>
+                <li class="reco-tel reco-list">Téléphone :</li>
+                <li class="reco-email reco-list">Email : name@email.com</li>
+            </ul>
+        </article>
+        <article class="reco">
+            <h4 class="article-name">Maxime Kieman</h4>
+            <ul class="list-reco">
+                <li class="reco-name reco-list">Directeur, Mon agence</li>
+                <li class="reco-tel reco-list">Téléphone :</li>
+                <li class="reco-email reco-list">Email : name@email.com</li>
+            </ul>
+        </article>
     </section>
 </main>
-<footer class="footer">
-    <aside>
-        <figure class="myface">
-            <!--??????? add in css VALIDE ??????-->
-        </figure>
-    </aside>
-    <aside>
-        <h2 class="aside-title">Contact</h2>
-        <ul class="contact-list">
-            <li class="list-contact">Adresse<span class="return">Oizon, France</span></li>
-            <li class="list-contact phone">Téléphone<span class="return">07 60 07 63 97</span></li>
-            <li class="list-contact mail">Email<span class="return">fl.si@orange.fr</span></li>
-            <li class="list-contact github">Github<span class="return">https://github.com/fsiguret</span></li>
-        </ul>
-    </aside>
-    <aside>
-        <h2 class="aside-title">À propos de moi</h2>
-        <p class="text-me">
-            Passionné par l'informatique et la technologie en général, je passe mon temps à rechercher de nouvelles
-            façons d'optimiser ce que je fais tout les jours. Réceptif aux critiques constructives, je fais tout ce qui
-            est en mon pouvoir pour m'améliorer de jour en jour.
-        </p>
-    </aside>
-    <aside class="hobbies">
-        <h2 class="aside-title">Loisirs</h2>
-        <figure class="img-hobbies">
-            <img class="img" src="img/leaf.svg" alt="it's a leaf">
-            <img class="img" src="img/dumbbell-solid.svg" alt="it's a dumbbells">
-            <img class="img" src="img/tv-solid.svg" alt="it's a tv">
-        </figure>
-    </aside>
-</footer>
 </body>
 </html>
