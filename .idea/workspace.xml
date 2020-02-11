@@ -3,17 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ede6fb64-51c5-463b-abed-8df6214bad2b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/book-solid.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/code-solid.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/css3-alt-brands.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/dumbbell-solid.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/html5-brands.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/js-brands.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/leaf.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/node-js-brands.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/puce.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/suitcase-solid.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tv-solid.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/styles.css" afterDir="false" />
     </list>
@@ -52,13 +41,13 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\ProjectOC\Projet2\img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="H:\ProjectOC\Projet2\fontawesome" />
       <recent name="H:\ProjectOC\Projet2\img" />
       <recent name="H:\ProjectOC\Projet2\style" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="H:\ProjectOC\Projet2\img" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -86,7 +75,10 @@
       <workItem from="1580913883300" duration="250000" />
       <workItem from="1580914929467" duration="4541000" />
       <workItem from="1580930404890" duration="70000" />
-      <workItem from="1580978108034" duration="4634000" />
+      <workItem from="1580978108034" duration="4966000" />
+      <workItem from="1581011631947" duration="603000" />
+      <workItem from="1581328213017" duration="20326000" />
+      <workItem from="1581410790601" duration="15256000" />
     </task>
     <servers />
   </component>
