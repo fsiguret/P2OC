@@ -2,8 +2,12 @@
 VARIABLE
  ******/
 :root {
+    /*Material Color Blue Grey 400 for background, titles footer, underline*/
     --back-color : #78909C;
+    /*Material Color Grey 800 for text and background titles footer*/
     --text-color : #424242;
+    /*Material Color Blue Grey 700 for border on image*/
+    --border-color : #455A64;
 }
 /******
 GENERAL
@@ -57,7 +61,7 @@ HEADER
 }
 .myface {
     border-radius: 50%;
-    border: solid #556D7E;
+    border: solid var(--border-color);
     width: 9rem;
     height: 9rem;
     margin: 3rem auto 1rem auto;
