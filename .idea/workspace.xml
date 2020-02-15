@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="6ac29ffd-900e-4458-b7ae-74c54927aa84" name="Default Changelist" comment="">
+=======
+    <list default="true" id="ede6fb64-51c5-463b-abed-8df6214bad2b" name="Default Changelist" comment="">
+>>>>>>> dev
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,25 +35,64 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\ProjectOC\Projet2\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\ProjectOC\Projet2\webfonts\css" />
+      <recent name="H:\ProjectOC\Projet2\webfonts" />
+      <recent name="H:\ProjectOC\Projet2\fontawesome" />
+      <recent name="H:\ProjectOC\Projet2\img" />
+      <recent name="H:\ProjectOC\Projet2\style" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6ac29ffd-900e-4458-b7ae-74c54927aa84" name="Default Changelist" comment="" />
+      <changelist id="ede6fb64-51c5-463b-abed-8df6214bad2b" name="Default Changelist" comment="" />
       <created>1580224356194</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580224356194</updated>
       <workItem from="1580224357453" duration="796000" />
       <workItem from="1580371705050" duration="10442000" />
+<<<<<<< HEAD
       <workItem from="1580382560863" duration="8338000" />
       <workItem from="1580720720348" duration="1756000" />
+=======
+      <workItem from="1580382560863" duration="20147000" />
+      <workItem from="1580407507036" duration="1607000" />
+      <workItem from="1580458522592" duration="657000" />
+      <workItem from="1580478854309" duration="11695000" />
+      <workItem from="1580495065932" duration="274000" />
+      <workItem from="1580645529070" duration="1406000" />
+      <workItem from="1580718892740" duration="1631000" />
+      <workItem from="1580805732358" duration="18891000" />
+      <workItem from="1580850698518" duration="1314000" />
+      <workItem from="1580891086600" duration="8469000" />
+      <workItem from="1580913883300" duration="250000" />
+      <workItem from="1580914929467" duration="4541000" />
+      <workItem from="1580930404890" duration="70000" />
+      <workItem from="1580978108034" duration="4966000" />
+      <workItem from="1581011631947" duration="603000" />
+      <workItem from="1581328213017" duration="20326000" />
+      <workItem from="1581410790601" duration="16329000" />
+      <workItem from="1581434523521" duration="1668000" />
+      <workItem from="1581448839981" duration="99000" />
+      <workItem from="1581500021758" duration="9772000" />
+      <workItem from="1581582345157" duration="5841000" />
+      <workItem from="1581762589240" duration="320000" />
+>>>>>>> dev
     </task>
     <servers />
   </component>
@@ -57,17 +100,29 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580381670164">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580487657905">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580381670164" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580487657905" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1580382241530">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580382241530" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1580982701188">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580982701188" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1580391896698">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1580391896698" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1580402534953">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580402534953" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1580812246787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580812246787" />
   </component>
 </project>
